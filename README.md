@@ -36,9 +36,9 @@ FreeCodeCamp 29Days Challenge
 - Create a Text Field   
 - Create an Ordered List    
 - Create a Bulleted Unordered List 
-
-| Challenge     | Completed     | FreeCodeCamp  |
-|:------------- |:-------------:| -------------:|
-| HTLM5         | March 23, 2020|               |
-| CSS           |               |               |
-|               |               |               | 
+***
+| Challenge     | Completed     | FreeCodeCamp      |
+|:------------- |:-------------:| -------------:    |
+| HTLM5         | March 23, 2020| :white_check_mark:|
+| CSS           |               |                   |
+|               |               |                   | 
