@@ -3,8 +3,7 @@ FreeCodeCamp 29Days Challenge
 
 ## Timeline
 
-> Challenge
-March 22, 2020
+> Challenge | March 22, 2020
 - Turn an Image into a Link  
 - Make Dead Links Using the Hash Symbol  
 - Nest an Anchor Element within a Paragraph  
