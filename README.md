@@ -36,6 +36,15 @@ FreeCodeCamp 29Days Challenge
 - Create a Text Field   
 - Create an Ordered List    
 - Create a Bulleted Unordered List 
+
+> Challenge | March 24, 2020
+---
+- Set the Font Family of an Element   
+- Change the Font Size of an Element    
+- Style Multiple Elements with a CSS Class    
+- Use a CSS Class to Style an Element   
+- Use CSS Selectors to Style Elements   
+- Change the Color of Text  
 ***
 | Challenge     | Completed     | FreeCodeCamp      |
 |:------------- |:-------------:| :-------------:   |
