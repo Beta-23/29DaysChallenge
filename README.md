@@ -44,7 +44,11 @@ FreeCodeCamp 29Days Challenge
 - Style Multiple Elements with a CSS Class    
 - Use a CSS Class to Style an Element   
 - Use CSS Selectors to Style Elements   
-- Change the Color of Text  
+- Change the Color of Text 
+
+> Challenge | March 25, 2020
+---
+- Import a Google Font 
 ***
 | Challenge     | Completed     | FreeCodeCamp      |
 |:------------- |:-------------:| :-------------:   |
