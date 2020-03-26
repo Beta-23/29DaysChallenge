@@ -48,7 +48,18 @@ FreeCodeCamp 29Days Challenge
 
 > Challenge | March 25, 2020
 ---
-- Import a Google Font 
+- Import a Google Font
+
+> Challenge | March 26, 2020
+---
+- Use an id Attribute to Style an Element   
+- Set the id of an Element    
+- Give a Background Color to a div Element    
+- Make Circular Images with a border-radius   
+- Add Rounded Corners with border-radius    
+- Add Borders Around Your Elements    
+- Size Your Images    
+- Specify How Fonts Should Degrade  
 ***
 | Challenge     | Completed     | FreeCodeCamp      |
 |:------------- |:-------------:| :-------------:   |
