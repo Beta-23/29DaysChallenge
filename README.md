@@ -2,9 +2,9 @@
 FreeCodeCamp 29Days Challenge
 
 ## Timeline
-
-> Challenge | March 22, 2020
 ---
+> Challenge | March 22, 2020
+
 - Turn an Image into a Link  
 - Make Dead Links Using the Hash Symbol  
 - Nest an Anchor Element within a Paragraph  
@@ -19,9 +19,9 @@ FreeCodeCamp 29Days Challenge
 - Inform with the Paragraph Element 
 - Headline with the h2 Element   
 - Say Hello to HTML Elements 
-
-> Challenge | March 23, 2020 
 ---
+> Challenge | March 23, 2020 
+
 - Define the Head and Body of an HTML Document    
 - Declare the Doctype of an HTML Document   
 - Nest Many Elements within a Single div Element    
@@ -36,22 +36,22 @@ FreeCodeCamp 29Days Challenge
 - Create a Text Field   
 - Create an Ordered List    
 - Create a Bulleted Unordered List 
-
-> Challenge | March 24, 2020
 ---
+> Challenge | March 24, 2020
+
 - Set the Font Family of an Element   
 - Change the Font Size of an Element    
 - Style Multiple Elements with a CSS Class    
 - Use a CSS Class to Style an Element   
 - Use CSS Selectors to Style Elements   
 - Change the Color of Text 
-
+---
 > Challenge | March 25, 2020
----
-- Import a Google Font
 
-> Challenge | March 26, 2020
+- Import a Google Font
 ---
+> Challenge | March 26, 2020
+
 - Use an id Attribute to Style an Element   
 - Set the id of an Element    
 - Give a Background Color to a div Element    
@@ -60,9 +60,9 @@ FreeCodeCamp 29Days Challenge
 - Add Borders Around Your Elements    
 - Size Your Images    
 - Specify How Fonts Should Degrade 
-
-> Challenge | March 27, 2020
 ---
+> Challenge | March 27, 2020
+
 - Use Clockwise Notation to Specify the Margin of an Element    
 - Use Clockwise Notation to Specify the Padding of an Element   
 - Add Different Margins to Each Side of an Element    
@@ -70,7 +70,7 @@ FreeCodeCamp 29Days Challenge
 - Add a Negative Margin to an Element   
 - Adjust the Margin of an Element   
 - Adjust the Padding of an Element  
- 
+
 ***
 | Challenge     | Completed     | FreeCodeCamp      |
 |:------------- |:-------------:| :-------------:   |
