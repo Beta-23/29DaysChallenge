@@ -59,7 +59,18 @@ FreeCodeCamp 29Days Challenge
 - Add Rounded Corners with border-radius    
 - Add Borders Around Your Elements    
 - Size Your Images    
-- Specify How Fonts Should Degrade  
+- Specify How Fonts Should Degrade 
+
+> Challenge | March 27, 2020
+---
+- Use Clockwise Notation to Specify the Margin of an Element    
+- Use Clockwise Notation to Specify the Padding of an Element   
+- Add Different Margins to Each Side of an Element    
+- Add Different Padding to Each Side of an Element    
+- Add a Negative Margin to an Element   
+- Adjust the Margin of an Element   
+- Adjust the Padding of an Element  
+ 
 ***
 | Challenge     | Completed     | FreeCodeCamp      |
 |:------------- |:-------------:| :-------------:   |
