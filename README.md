@@ -69,7 +69,15 @@ FreeCodeCamp 29Days Challenge
 - Add Different Padding to Each Side of an Element    
 - Add a Negative Margin to an Element   
 - Adjust the Margin of an Element   
-- Adjust the Padding of an Element  
+- Adjust the Padding of an Element 
+
+> Challenge | April 23, 2020
+
+- Modify UI text for course counter
+ 
+- Create the remove all onClick event
+ 
+- Create the render function to update form options 
 
 ***
 | Challenge     | Completed     | FreeCodeCamp      |
